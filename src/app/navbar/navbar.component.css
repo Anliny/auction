@@ -1,0 +1,6 @@
+.navbar-default{
+    background-color: #000;
+}
+.navbar-default .navbar-nav > .active > a{
+    background-color: #000;
+}
